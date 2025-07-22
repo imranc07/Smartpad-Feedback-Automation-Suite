@@ -1,0 +1,5 @@
+- Python 3.8+
+- Selenium
+- PyTest
+- openpyxl
+- webdriver-manager
